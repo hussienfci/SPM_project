@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+  <sys_ui_section caption="Business Justification" section_id="3d58a1f86eac47fc9c8d2062504ad198" sys_domain="global" table="x_1850489_premiu_0_demand" view="">
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>justification</element>
+      <position>0</position>
+      <sys_id>9a0d1bcbbb1c4debbfcdeccfcd343483</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Business Justification" display_value="Business Justification" name="x_1850489_premiu_0_demand" sys_domain="global" view="Default view">3d58a1f86eac47fc9c8d2062504ad198</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_section action="INSERT_OR_UPDATE" apply_defaults="true">
+      <caption>Business Justification</caption>
+      <header>false</header>
+      <name>x_1850489_premiu_0_demand</name>
+      <roles/>
+      <sys_domain>global</sys_domain>
+      <sys_id>3d58a1f86eac47fc9c8d2062504ad198</sys_id>
+      <sys_scope display_value="x_1850489_premiu_0">3dd2eaab73c013106a56f85c4ab8b7a0</sys_scope>
+      <sys_user/>
+      <title>false</title>
+      <view_name/>
+      <view display_value="Default view" name="NULL">Default view</view>
+    </sys_ui_section>
+  </sys_ui_section>
+</record_update>

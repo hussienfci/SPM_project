@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+  <sys_ui_section caption="Assignment" section_id="1eb087a8fc064422b3a4624d426415e5" sys_domain="global" table="x_1850489_premiu_0_project" view="">
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>.begin_split</element>
+      <position>0</position>
+      <sys_id>05d0c4c1b4d74dfc94214ab883e93740</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Assignment" display_value="Assignment" name="x_1850489_premiu_0_project" sys_domain="global" view="Default view">1eb087a8fc064422b3a4624d426415e5</sys_ui_section>
+      <sys_user/>
+      <type>.begin_split</type>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>assigned_to</element>
+      <position>1</position>
+      <sys_id>be3947f57b964b26b5fea63dcda71d84</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Assignment" display_value="Assignment" name="x_1850489_premiu_0_project" sys_domain="global" view="Default view">1eb087a8fc064422b3a4624d426415e5</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>.split</element>
+      <position>2</position>
+      <sys_id>b27accbf46934ff1932173bd5ba61e5e</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Assignment" display_value="Assignment" name="x_1850489_premiu_0_project" sys_domain="global" view="Default view">1eb087a8fc064422b3a4624d426415e5</sys_ui_section>
+      <sys_user/>
+      <type>.split</type>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>assignment_group</element>
+      <position>3</position>
+      <sys_id>f8e323d001d8414f87149b08be2e401f</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Assignment" display_value="Assignment" name="x_1850489_premiu_0_project" sys_domain="global" view="Default view">1eb087a8fc064422b3a4624d426415e5</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>.end_split</element>
+      <position>4</position>
+      <sys_id>f34bd3c03d3544e8bb441935074b7653</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Assignment" display_value="Assignment" name="x_1850489_premiu_0_project" sys_domain="global" view="Default view">1eb087a8fc064422b3a4624d426415e5</sys_ui_section>
+      <sys_user/>
+      <type>.end_split</type>
+    </sys_ui_element>
+    <sys_ui_section action="INSERT_OR_UPDATE" apply_defaults="true">
+      <caption>Assignment</caption>
+      <header>false</header>
+      <name>x_1850489_premiu_0_project</name>
+      <roles/>
+      <sys_domain>global</sys_domain>
+      <sys_id>1eb087a8fc064422b3a4624d426415e5</sys_id>
+      <sys_scope display_value="x_1850489_premiu_0">3dd2eaab73c013106a56f85c4ab8b7a0</sys_scope>
+      <sys_user/>
+      <title>false</title>
+      <view_name/>
+      <view display_value="Default view" name="NULL">Default view</view>
+    </sys_ui_section>
+  </sys_ui_section>
+</record_update>

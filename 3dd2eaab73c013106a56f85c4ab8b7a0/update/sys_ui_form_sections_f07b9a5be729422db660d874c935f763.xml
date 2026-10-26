@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+  <sys_ui_form_sections form_id="f07b9a5be729422db660d874c935f763" sys_domain="global" table="x_1850489_premiu_0_project">
+    <sys_ui_form_section action="INSERT_OR_UPDATE" apply_defaults="true">
+      <position>0</position>
+      <sys_id>4f5dead025da49ffbdc879467f3232af</sys_id>
+      <sys_ui_form display_value="x_1850489_premiu_0_project" name="x_1850489_premiu_0_project" sys_domain="global" view="Default view">f07b9a5be729422db660d874c935f763</sys_ui_form>
+      <sys_ui_section caption="Project Details" display_value="Project Details" name="x_1850489_premiu_0_project" sys_domain="global" view="Default view">031c2bbd55e8447b8b0e735158ded2ee</sys_ui_section>
+    </sys_ui_form_section>
+    <sys_ui_form_section action="INSERT_OR_UPDATE" apply_defaults="true">
+      <position>1</position>
+      <sys_id>e1a654596fa34326b5589828ae51e34b</sys_id>
+      <sys_ui_form display_value="x_1850489_premiu_0_project" name="x_1850489_premiu_0_project" sys_domain="global" view="Default view">f07b9a5be729422db660d874c935f763</sys_ui_form>
+      <sys_ui_section caption="Financials &amp; Dates" display_value="Financials &amp; Dates" name="x_1850489_premiu_0_project" sys_domain="global" view="Default view">e125488f227a4f32b2a749b649673158</sys_ui_section>
+    </sys_ui_form_section>
+    <sys_ui_form_section action="INSERT_OR_UPDATE" apply_defaults="true">
+      <position>2</position>
+      <sys_id>61f858e9b525405cb6fe548e726c9364</sys_id>
+      <sys_ui_form display_value="x_1850489_premiu_0_project" name="x_1850489_premiu_0_project" sys_domain="global" view="Default view">f07b9a5be729422db660d874c935f763</sys_ui_form>
+      <sys_ui_section caption="Description" display_value="Description" name="x_1850489_premiu_0_project" sys_domain="global" view="Default view">124da6aeeb9745bdba22cd4805b1a658</sys_ui_section>
+    </sys_ui_form_section>
+    <sys_ui_form_section action="INSERT_OR_UPDATE" apply_defaults="true">
+      <position>3</position>
+      <sys_id>11b448a3a2ce4ef7ae559e8c098b4f68</sys_id>
+      <sys_ui_form display_value="x_1850489_premiu_0_project" name="x_1850489_premiu_0_project" sys_domain="global" view="Default view">f07b9a5be729422db660d874c935f763</sys_ui_form>
+      <sys_ui_section caption="Project Notes" display_value="Project Notes" name="x_1850489_premiu_0_project" sys_domain="global" view="Default view">3ae886a4d29f4c4487968ba99859e67d</sys_ui_section>
+    </sys_ui_form_section>
+    <sys_ui_form_section action="INSERT_OR_UPDATE" apply_defaults="true">
+      <position>4</position>
+      <sys_id>c8edc053c4a141059c2b0665163bf974</sys_id>
+      <sys_ui_form display_value="x_1850489_premiu_0_project" name="x_1850489_premiu_0_project" sys_domain="global" view="Default view">f07b9a5be729422db660d874c935f763</sys_ui_form>
+      <sys_ui_section caption="Assignment" display_value="Assignment" name="x_1850489_premiu_0_project" sys_domain="global" view="Default view">1eb087a8fc064422b3a4624d426415e5</sys_ui_section>
+    </sys_ui_form_section>
+    <sys_ui_form_section action="INSERT_OR_UPDATE" apply_defaults="true">
+      <position>5</position>
+      <sys_id>a2278a56217c4a758eaad2ee3bc88803</sys_id>
+      <sys_ui_form display_value="x_1850489_premiu_0_project" name="x_1850489_premiu_0_project" sys_domain="global" view="Default view">f07b9a5be729422db660d874c935f763</sys_ui_form>
+      <sys_ui_section caption="Activity" display_value="Activity" name="x_1850489_premiu_0_project" sys_domain="global" view="Default view">bf7860d85f6b491c9736e5318e60fd3a</sys_ui_section>
+    </sys_ui_form_section>
+    <sys_ui_form action="INSERT_OR_UPDATE" apply_defaults="true">
+      <name>x_1850489_premiu_0_project</name>
+      <roles/>
+      <sys_id>f07b9a5be729422db660d874c935f763</sys_id>
+      <sys_scope display_value="x_1850489_premiu_0">3dd2eaab73c013106a56f85c4ab8b7a0</sys_scope>
+      <sys_user/>
+      <view display_value="Default view" name="NULL">Default view</view>
+      <view_name/>
+    </sys_ui_form>
+  </sys_ui_form_sections>
+</record_update>

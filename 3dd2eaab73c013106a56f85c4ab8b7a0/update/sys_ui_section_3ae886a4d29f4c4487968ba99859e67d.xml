@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+  <sys_ui_section caption="Project Notes" section_id="3ae886a4d29f4c4487968ba99859e67d" sys_domain="global" table="x_1850489_premiu_0_project" view="">
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>project_notes</element>
+      <position>0</position>
+      <sys_id>d71b82b776d641f49c488d0fb71ddfdb</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Project Notes" display_value="Project Notes" name="x_1850489_premiu_0_project" sys_domain="global" view="Default view">3ae886a4d29f4c4487968ba99859e67d</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_section action="INSERT_OR_UPDATE" apply_defaults="true">
+      <caption>Project Notes</caption>
+      <header>false</header>
+      <name>x_1850489_premiu_0_project</name>
+      <roles/>
+      <sys_domain>global</sys_domain>
+      <sys_id>3ae886a4d29f4c4487968ba99859e67d</sys_id>
+      <sys_scope display_value="x_1850489_premiu_0">3dd2eaab73c013106a56f85c4ab8b7a0</sys_scope>
+      <sys_user/>
+      <title>false</title>
+      <view_name/>
+      <view display_value="Default view" name="NULL">Default view</view>
+    </sys_ui_section>
+  </sys_ui_section>
+</record_update>

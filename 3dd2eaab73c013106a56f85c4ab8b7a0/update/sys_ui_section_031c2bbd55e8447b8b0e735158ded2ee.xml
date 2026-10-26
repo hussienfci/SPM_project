@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+  <sys_ui_section caption="Project Details" section_id="031c2bbd55e8447b8b0e735158ded2ee" sys_domain="global" table="x_1850489_premiu_0_project" view="">
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>.begin_split</element>
+      <position>0</position>
+      <sys_id>32328172393a45ea813e3295992e3380</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Project Details" display_value="Project Details" name="x_1850489_premiu_0_project" sys_domain="global" view="Default view">031c2bbd55e8447b8b0e735158ded2ee</sys_ui_section>
+      <sys_user/>
+      <type>.begin_split</type>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>source_demand</element>
+      <position>1</position>
+      <sys_id>579c7e151ff04e819175e73d21f28c8d</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Project Details" display_value="Project Details" name="x_1850489_premiu_0_project" sys_domain="global" view="Default view">031c2bbd55e8447b8b0e735158ded2ee</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>project_phase</element>
+      <position>2</position>
+      <sys_id>c3674d34eca8425984664d54b6a9a160</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Project Details" display_value="Project Details" name="x_1850489_premiu_0_project" sys_domain="global" view="Default view">031c2bbd55e8447b8b0e735158ded2ee</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>project_manager</element>
+      <position>3</position>
+      <sys_id>3ba78c56780f40448f34037e590c0861</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Project Details" display_value="Project Details" name="x_1850489_premiu_0_project" sys_domain="global" view="Default view">031c2bbd55e8447b8b0e735158ded2ee</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>.split</element>
+      <position>4</position>
+      <sys_id>001e92b1b031440b9a44784e613d075d</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Project Details" display_value="Project Details" name="x_1850489_premiu_0_project" sys_domain="global" view="Default view">031c2bbd55e8447b8b0e735158ded2ee</sys_ui_section>
+      <sys_user/>
+      <type>.split</type>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>planned_start</element>
+      <position>5</position>
+      <sys_id>d516789ece474fba87315e2a3e8fa1cd</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Project Details" display_value="Project Details" name="x_1850489_premiu_0_project" sys_domain="global" view="Default view">031c2bbd55e8447b8b0e735158ded2ee</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>planned_end</element>
+      <position>6</position>
+      <sys_id>9277c44cdcf24675aa34739adabb4d29</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Project Details" display_value="Project Details" name="x_1850489_premiu_0_project" sys_domain="global" view="Default view">031c2bbd55e8447b8b0e735158ded2ee</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>percent_complete</element>
+      <position>7</position>
+      <sys_id>01f286dcc84748cca1ba69a34fb2c6b2</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Project Details" display_value="Project Details" name="x_1850489_premiu_0_project" sys_domain="global" view="Default view">031c2bbd55e8447b8b0e735158ded2ee</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>.end_split</element>
+      <position>8</position>
+      <sys_id>9753b75e16c94fc9af80d55de00f3624</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Project Details" display_value="Project Details" name="x_1850489_premiu_0_project" sys_domain="global" view="Default view">031c2bbd55e8447b8b0e735158ded2ee</sys_ui_section>
+      <sys_user/>
+      <type>.end_split</type>
+    </sys_ui_element>
+    <sys_ui_section action="INSERT_OR_UPDATE" apply_defaults="true">
+      <caption>Project Details</caption>
+      <header>false</header>
+      <name>x_1850489_premiu_0_project</name>
+      <roles/>
+      <sys_domain>global</sys_domain>
+      <sys_id>031c2bbd55e8447b8b0e735158ded2ee</sys_id>
+      <sys_scope display_value="x_1850489_premiu_0">3dd2eaab73c013106a56f85c4ab8b7a0</sys_scope>
+      <sys_user/>
+      <title>false</title>
+      <view_name/>
+      <view display_value="Default view" name="NULL">Default view</view>
+    </sys_ui_section>
+  </sys_ui_section>
+</record_update>

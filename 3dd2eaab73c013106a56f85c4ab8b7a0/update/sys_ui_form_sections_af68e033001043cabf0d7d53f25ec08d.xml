@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+  <sys_ui_form_sections form_id="af68e033001043cabf0d7d53f25ec08d" sys_domain="global" table="x_1850489_premiu_0_prj_task">
+    <sys_ui_form_section action="INSERT_OR_UPDATE" apply_defaults="true">
+      <position>0</position>
+      <sys_id>7ba9daeb5c4e4fb59a0f4a32b272dee4</sys_id>
+      <sys_ui_form display_value="x_1850489_premiu_0_prj_task" name="x_1850489_premiu_0_prj_task" sys_domain="global" view="Default view">af68e033001043cabf0d7d53f25ec08d</sys_ui_form>
+      <sys_ui_section caption="Task Details" display_value="Task Details" name="x_1850489_premiu_0_prj_task" sys_domain="global" view="Default view">e191b470e5234dd4a49db23c594ef126</sys_ui_section>
+    </sys_ui_form_section>
+    <sys_ui_form_section action="INSERT_OR_UPDATE" apply_defaults="true">
+      <position>1</position>
+      <sys_id>342af7019bcf44959c9f7c1b13bcb3c6</sys_id>
+      <sys_ui_form display_value="x_1850489_premiu_0_prj_task" name="x_1850489_premiu_0_prj_task" sys_domain="global" view="Default view">af68e033001043cabf0d7d53f25ec08d</sys_ui_form>
+      <sys_ui_section caption="Description" display_value="Description" name="x_1850489_premiu_0_prj_task" sys_domain="global" view="Default view">394d48f7d395483693cbedd0a7070d75</sys_ui_section>
+    </sys_ui_form_section>
+    <sys_ui_form_section action="INSERT_OR_UPDATE" apply_defaults="true">
+      <position>2</position>
+      <sys_id>8923dd023d0248dd8f182a2053cec25d</sys_id>
+      <sys_ui_form display_value="x_1850489_premiu_0_prj_task" name="x_1850489_premiu_0_prj_task" sys_domain="global" view="Default view">af68e033001043cabf0d7d53f25ec08d</sys_ui_form>
+      <sys_ui_section caption="Assignment" display_value="Assignment" name="x_1850489_premiu_0_prj_task" sys_domain="global" view="Default view">0d2fe023996c46afb1b23b6b3be12a43</sys_ui_section>
+    </sys_ui_form_section>
+    <sys_ui_form_section action="INSERT_OR_UPDATE" apply_defaults="true">
+      <position>3</position>
+      <sys_id>03e9ccbf7a974083ac1ad42b432e059c</sys_id>
+      <sys_ui_form display_value="x_1850489_premiu_0_prj_task" name="x_1850489_premiu_0_prj_task" sys_domain="global" view="Default view">af68e033001043cabf0d7d53f25ec08d</sys_ui_form>
+      <sys_ui_section caption="Activity" display_value="Activity" name="x_1850489_premiu_0_prj_task" sys_domain="global" view="Default view">fa51d69c6a134650a3bfc2a5f9319bc5</sys_ui_section>
+    </sys_ui_form_section>
+    <sys_ui_form action="INSERT_OR_UPDATE" apply_defaults="true">
+      <name>x_1850489_premiu_0_prj_task</name>
+      <roles/>
+      <sys_id>af68e033001043cabf0d7d53f25ec08d</sys_id>
+      <sys_scope display_value="x_1850489_premiu_0">3dd2eaab73c013106a56f85c4ab8b7a0</sys_scope>
+      <sys_user/>
+      <view display_value="Default view" name="NULL">Default view</view>
+      <view_name/>
+    </sys_ui_form>
+  </sys_ui_form_sections>
+</record_update>

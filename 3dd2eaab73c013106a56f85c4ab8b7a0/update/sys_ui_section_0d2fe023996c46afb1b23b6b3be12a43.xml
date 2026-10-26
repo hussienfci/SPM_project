@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+  <sys_ui_section caption="Assignment" section_id="0d2fe023996c46afb1b23b6b3be12a43" sys_domain="global" table="x_1850489_premiu_0_prj_task" view="">
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>.begin_split</element>
+      <position>0</position>
+      <sys_id>3153402ffbda4fa3a7430dcc2c5764d7</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Assignment" display_value="Assignment" name="x_1850489_premiu_0_prj_task" sys_domain="global" view="Default view">0d2fe023996c46afb1b23b6b3be12a43</sys_ui_section>
+      <sys_user/>
+      <type>.begin_split</type>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>assigned_to</element>
+      <position>1</position>
+      <sys_id>9fb260c93c1440279daad82a675a6711</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Assignment" display_value="Assignment" name="x_1850489_premiu_0_prj_task" sys_domain="global" view="Default view">0d2fe023996c46afb1b23b6b3be12a43</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>.split</element>
+      <position>2</position>
+      <sys_id>d71c47b0a3c149659cdd29698ba1d233</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Assignment" display_value="Assignment" name="x_1850489_premiu_0_prj_task" sys_domain="global" view="Default view">0d2fe023996c46afb1b23b6b3be12a43</sys_ui_section>
+      <sys_user/>
+      <type>.split</type>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>assignment_group</element>
+      <position>3</position>
+      <sys_id>cb6ba20f3b6049439e409fd43cdc530b</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Assignment" display_value="Assignment" name="x_1850489_premiu_0_prj_task" sys_domain="global" view="Default view">0d2fe023996c46afb1b23b6b3be12a43</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>.end_split</element>
+      <position>4</position>
+      <sys_id>2bb603251ad5494181199d924bdbe1bf</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Assignment" display_value="Assignment" name="x_1850489_premiu_0_prj_task" sys_domain="global" view="Default view">0d2fe023996c46afb1b23b6b3be12a43</sys_ui_section>
+      <sys_user/>
+      <type>.end_split</type>
+    </sys_ui_element>
+    <sys_ui_section action="INSERT_OR_UPDATE" apply_defaults="true">
+      <caption>Assignment</caption>
+      <header>false</header>
+      <name>x_1850489_premiu_0_prj_task</name>
+      <roles/>
+      <sys_domain>global</sys_domain>
+      <sys_id>0d2fe023996c46afb1b23b6b3be12a43</sys_id>
+      <sys_scope display_value="x_1850489_premiu_0">3dd2eaab73c013106a56f85c4ab8b7a0</sys_scope>
+      <sys_user/>
+      <title>false</title>
+      <view_name/>
+      <view display_value="Default view" name="NULL">Default view</view>
+    </sys_ui_section>
+  </sys_ui_section>
+</record_update>

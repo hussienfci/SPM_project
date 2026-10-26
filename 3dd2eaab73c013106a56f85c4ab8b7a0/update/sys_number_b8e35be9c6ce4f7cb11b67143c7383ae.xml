@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+  <sys_number action="INSERT_OR_UPDATE" apply_defaults="true">
+    <sys_id>b8e35be9c6ce4f7cb11b67143c7383ae</sys_id>
+    <sys_scope display_value="x_1850489_premiu_0">3dd2eaab73c013106a56f85c4ab8b7a0</sys_scope>
+    <sys_update_name>sys_number_b8e35be9c6ce4f7cb11b67143c7383ae</sys_update_name>
+    <category>x_1850489_premiu_0_prj_task</category>
+    <maximum_digits>7</maximum_digits>
+    <number>1000</number>
+    <prefix>PTK</prefix>
+  </sys_number>
+</record_update>

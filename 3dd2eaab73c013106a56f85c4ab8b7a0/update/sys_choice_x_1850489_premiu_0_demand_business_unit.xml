@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+  <sys_choice_set action="INSERT_OR_UPDATE" apply_defaults="true" field="business_unit" table="x_1850489_premiu_0_demand" version="3">
+    <sys_choice_set action="INSERT_OR_UPDATE" apply_defaults="true">
+      <sys_id>c7e075bac4c142a1bc3758f91bc31e53</sys_id>
+      <element>business_unit</element>
+      <sys_update_name>sys_choice_x_1850489_premiu_0_demand_business_unit</sys_update_name>
+      <name>x_1850489_premiu_0_demand</name>
+      <sys_class_name>sys_choice_set</sys_class_name>
+      <sys_scope display_value="x_1850489_premiu_0">3dd2eaab73c013106a56f85c4ab8b7a0</sys_scope>
+      <sys_package display_value="x_1850489_premiu_0" source="3dd2eaab73c013106a56f85c4ab8b7a0">3dd2eaab73c013106a56f85c4ab8b7a0</sys_package>
+      <sys_name>business_unit</sys_name>
+    </sys_choice_set>
+    <sys_choice action="INSERT_OR_UPDATE" apply_defaults="true">
+      <sys_id>a4752b3fc9b24ca6a376995aafb69438</sys_id>
+      <name>x_1850489_premiu_0_demand</name>
+      <element>business_unit</element>
+      <label>Immigration Services</label>
+      <value>immigration</value>
+      <sequence>1</sequence>
+      <language>en</language>
+    </sys_choice>
+    <sys_choice action="INSERT_OR_UPDATE" apply_defaults="true">
+      <sys_id>56bf0f1eef8c4174acf6f5648c72c92d</sys_id>
+      <name>x_1850489_premiu_0_demand</name>
+      <element>business_unit</element>
+      <label>Housing Authority</label>
+      <value>housing</value>
+      <sequence>2</sequence>
+      <language>en</language>
+    </sys_choice>
+    <sys_choice action="INSERT_OR_UPDATE" apply_defaults="true">
+      <sys_id>7dfd80237ca845d0a6f43fcc23cc49f7</sys_id>
+      <name>x_1850489_premiu_0_demand</name>
+      <element>business_unit</element>
+      <label>Finance Department</label>
+      <value>finance</value>
+      <sequence>3</sequence>
+      <language>en</language>
+    </sys_choice>
+    <sys_choice action="INSERT_OR_UPDATE" apply_defaults="true">
+      <sys_id>ee178bfb185f47c28827c71acfcf4a69</sys_id>
+      <name>x_1850489_premiu_0_demand</name>
+      <element>business_unit</element>
+      <label>Legal Affairs</label>
+      <value>legal</value>
+      <sequence>4</sequence>
+      <language>en</language>
+    </sys_choice>
+  </sys_choice_set>
+</record_update>

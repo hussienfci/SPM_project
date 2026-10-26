@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_dictionary">
+  <sys_dictionary action="INSERT_OR_UPDATE" apply_defaults="true" element="" table="x_1850489_premiu_0_demand">
+    <sys_id>725ca0fb08c34db2bf4cb1c3169cbd38</sys_id>
+    <sys_scope display_value="x_1850489_premiu_0">3dd2eaab73c013106a56f85c4ab8b7a0</sys_scope>
+    <sys_update_name>sys_dictionary_x_1850489_premiu_0_demand_null</sys_update_name>
+    <active>true</active>
+    <attributes/>
+    <audit>false</audit>
+    <element/>
+    <internal_type>collection</internal_type>
+    <name>x_1850489_premiu_0_demand</name>
+    <read_only>false</read_only>
+    <sizeclass/>
+    <text_index>false</text_index>
+  </sys_dictionary>
+</record_update>

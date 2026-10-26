@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+  <sys_ui_section caption="Description" section_id="394d48f7d395483693cbedd0a7070d75" sys_domain="global" table="x_1850489_premiu_0_prj_task" view="">
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>short_description</element>
+      <position>0</position>
+      <sys_id>778ffa8b27074792b1497ab0c1fe23a6</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Description" display_value="Description" name="x_1850489_premiu_0_prj_task" sys_domain="global" view="Default view">394d48f7d395483693cbedd0a7070d75</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
+      <element>description</element>
+      <position>1</position>
+      <sys_id>32081eccec2e4256a4bc777be4e11976</sys_id>
+      <sys_ui_formatter/>
+      <sys_ui_section caption="Description" display_value="Description" name="x_1850489_premiu_0_prj_task" sys_domain="global" view="Default view">394d48f7d395483693cbedd0a7070d75</sys_ui_section>
+      <sys_user/>
+      <type/>
+    </sys_ui_element>
+    <sys_ui_section action="INSERT_OR_UPDATE" apply_defaults="true">
+      <caption>Description</caption>
+      <header>false</header>
+      <name>x_1850489_premiu_0_prj_task</name>
+      <roles/>
+      <sys_domain>global</sys_domain>
+      <sys_id>394d48f7d395483693cbedd0a7070d75</sys_id>
+      <sys_scope display_value="x_1850489_premiu_0">3dd2eaab73c013106a56f85c4ab8b7a0</sys_scope>
+      <sys_user/>
+      <title>false</title>
+      <view_name/>
+      <view display_value="Default view" name="NULL">Default view</view>
+    </sys_ui_section>
+  </sys_ui_section>
+</record_update>
