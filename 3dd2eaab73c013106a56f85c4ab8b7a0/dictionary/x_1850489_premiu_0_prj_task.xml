@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="b301fe12378344bbbdc850abf095aeee" extends="task" label="Residency Project Task" name="x_1850489_premiu_0_prj_task" type="collection">
+        <element label="Actual Hours" name="actual_hours" type="integer"/>
+        <element label="Planned Hours" name="planned_hours" type="integer"/>
+        <element label="Task Type" name="task_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Milestone" sequence="1" value="milestone"/>
+                <element inactive_on_update="false" label="Approval Gate" sequence="4" value="approval_gate"/>
+                <element inactive_on_update="false" label="Deliverable" sequence="2" value="deliverable"/>
+                <element inactive_on_update="false" label="Review" sequence="3" value="review"/>
+            </choice>
+        </element>
+        <element label="Project" name="project" reference="x_1850489_premiu_0_project" type="reference"/>
+        <element default="0" label="Percent Complete" name="percent_complete" type="integer"/>
+        <element default="not_started" label="Task Phase" name="task_phase" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Blocked" sequence="4" value="blocked"/>
+                <element inactive_on_update="false" label="Completed" sequence="3" value="completed"/>
+                <element inactive_on_update="false" label="In Progress" sequence="2" value="in_progress"/>
+                <element inactive_on_update="false" label="Not Started" sequence="1" value="not_started"/>
+            </choice>
+        </element>
+    </element>
+</database>

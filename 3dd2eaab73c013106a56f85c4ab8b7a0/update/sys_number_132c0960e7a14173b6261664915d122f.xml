@@ -1,11 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
-  <sys_number action="INSERT_OR_UPDATE" apply_defaults="true">
-    <sys_id>132c0960e7a14173b6261664915d122f</sys_id>
-    <sys_scope display_value="x_1850489_premiu_0">3dd2eaab73c013106a56f85c4ab8b7a0</sys_scope>
-    <sys_update_name>sys_number_132c0960e7a14173b6261664915d122f</sys_update_name>
-    <category>x_1850489_premiu_0_demand</category>
-    <maximum_digits>7</maximum_digits>
-    <number>1000</number>
-    <prefix>DMD</prefix>
-  </sys_number>
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_1850489_premiu_0_demand">x_1850489_premiu_0_demand</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>DMD</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-26 18:18:12</sys_created_on>
+        <sys_id>132c0960e7a14173b6261664915d122f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DMD</sys_name>
+        <sys_package display_value="Premium Residency SPM Demo" source="x_1850489_premiu_0">3dd2eaab73c013106a56f85c4ab8b7a0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Premium Residency SPM Demo">3dd2eaab73c013106a56f85c4ab8b7a0</sys_scope>
+        <sys_update_name>sys_number_132c0960e7a14173b6261664915d122f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-26 18:18:12</sys_updated_on>
+    </sys_number>
 </record_update>

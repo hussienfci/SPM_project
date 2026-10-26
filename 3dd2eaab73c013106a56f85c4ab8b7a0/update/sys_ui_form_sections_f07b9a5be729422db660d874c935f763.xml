@@ -1,49 +1,110 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-  <sys_ui_form_sections form_id="f07b9a5be729422db660d874c935f763" sys_domain="global" table="x_1850489_premiu_0_project">
-    <sys_ui_form_section action="INSERT_OR_UPDATE" apply_defaults="true">
-      <position>0</position>
-      <sys_id>4f5dead025da49ffbdc879467f3232af</sys_id>
-      <sys_ui_form display_value="x_1850489_premiu_0_project" name="x_1850489_premiu_0_project" sys_domain="global" view="Default view">f07b9a5be729422db660d874c935f763</sys_ui_form>
-      <sys_ui_section caption="Project Details" display_value="Project Details" name="x_1850489_premiu_0_project" sys_domain="global" view="Default view">031c2bbd55e8447b8b0e735158ded2ee</sys_ui_section>
-    </sys_ui_form_section>
-    <sys_ui_form_section action="INSERT_OR_UPDATE" apply_defaults="true">
-      <position>1</position>
-      <sys_id>e1a654596fa34326b5589828ae51e34b</sys_id>
-      <sys_ui_form display_value="x_1850489_premiu_0_project" name="x_1850489_premiu_0_project" sys_domain="global" view="Default view">f07b9a5be729422db660d874c935f763</sys_ui_form>
-      <sys_ui_section caption="Financials &amp; Dates" display_value="Financials &amp; Dates" name="x_1850489_premiu_0_project" sys_domain="global" view="Default view">e125488f227a4f32b2a749b649673158</sys_ui_section>
-    </sys_ui_form_section>
-    <sys_ui_form_section action="INSERT_OR_UPDATE" apply_defaults="true">
-      <position>2</position>
-      <sys_id>61f858e9b525405cb6fe548e726c9364</sys_id>
-      <sys_ui_form display_value="x_1850489_premiu_0_project" name="x_1850489_premiu_0_project" sys_domain="global" view="Default view">f07b9a5be729422db660d874c935f763</sys_ui_form>
-      <sys_ui_section caption="Description" display_value="Description" name="x_1850489_premiu_0_project" sys_domain="global" view="Default view">124da6aeeb9745bdba22cd4805b1a658</sys_ui_section>
-    </sys_ui_form_section>
-    <sys_ui_form_section action="INSERT_OR_UPDATE" apply_defaults="true">
-      <position>3</position>
-      <sys_id>11b448a3a2ce4ef7ae559e8c098b4f68</sys_id>
-      <sys_ui_form display_value="x_1850489_premiu_0_project" name="x_1850489_premiu_0_project" sys_domain="global" view="Default view">f07b9a5be729422db660d874c935f763</sys_ui_form>
-      <sys_ui_section caption="Project Notes" display_value="Project Notes" name="x_1850489_premiu_0_project" sys_domain="global" view="Default view">3ae886a4d29f4c4487968ba99859e67d</sys_ui_section>
-    </sys_ui_form_section>
-    <sys_ui_form_section action="INSERT_OR_UPDATE" apply_defaults="true">
-      <position>4</position>
-      <sys_id>c8edc053c4a141059c2b0665163bf974</sys_id>
-      <sys_ui_form display_value="x_1850489_premiu_0_project" name="x_1850489_premiu_0_project" sys_domain="global" view="Default view">f07b9a5be729422db660d874c935f763</sys_ui_form>
-      <sys_ui_section caption="Assignment" display_value="Assignment" name="x_1850489_premiu_0_project" sys_domain="global" view="Default view">1eb087a8fc064422b3a4624d426415e5</sys_ui_section>
-    </sys_ui_form_section>
-    <sys_ui_form_section action="INSERT_OR_UPDATE" apply_defaults="true">
-      <position>5</position>
-      <sys_id>a2278a56217c4a758eaad2ee3bc88803</sys_id>
-      <sys_ui_form display_value="x_1850489_premiu_0_project" name="x_1850489_premiu_0_project" sys_domain="global" view="Default view">f07b9a5be729422db660d874c935f763</sys_ui_form>
-      <sys_ui_section caption="Activity" display_value="Activity" name="x_1850489_premiu_0_project" sys_domain="global" view="Default view">bf7860d85f6b491c9736e5318e60fd3a</sys_ui_section>
-    </sys_ui_form_section>
-    <sys_ui_form action="INSERT_OR_UPDATE" apply_defaults="true">
-      <name>x_1850489_premiu_0_project</name>
-      <roles/>
-      <sys_id>f07b9a5be729422db660d874c935f763</sys_id>
-      <sys_scope display_value="x_1850489_premiu_0">3dd2eaab73c013106a56f85c4ab8b7a0</sys_scope>
-      <sys_user/>
-      <view display_value="Default view" name="NULL">Default view</view>
-      <view_name/>
-    </sys_ui_form>
-  </sys_ui_form_sections>
+    <sys_ui_form_sections form_id="f07b9a5be729422db660d874c935f763" sys_domain="global" table="x_1850489_premiu_0_project" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-26 18:34:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ed503475d32d4791bb762b56089ed48d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1850489_premiu_0_project" name="x_1850489_premiu_0_project" sys_domain="global" view="Default view">f07b9a5be729422db660d874c935f763</sys_ui_form>
+            <sys_ui_section caption="Project Details" display_value="Project Details" name="x_1850489_premiu_0_project" sys_domain="global" view="Default view">031c2bbd55e8447b8b0e735158ded2ee</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-26 18:34:36</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-26 18:34:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>12f130f1c12b43fc9303a8556e251711</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1850489_premiu_0_project" name="x_1850489_premiu_0_project" sys_domain="global" view="Default view">f07b9a5be729422db660d874c935f763</sys_ui_form>
+            <sys_ui_section caption="Financials &amp; Dates" display_value="Financials &amp; Dates" name="x_1850489_premiu_0_project" sys_domain="global" view="Default view">e125488f227a4f32b2a749b649673158</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-26 18:34:36</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-26 18:34:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8cbe29ff151644ec87577212acd8bbee</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1850489_premiu_0_project" name="x_1850489_premiu_0_project" sys_domain="global" view="Default view">f07b9a5be729422db660d874c935f763</sys_ui_form>
+            <sys_ui_section caption="Description" display_value="Description" name="x_1850489_premiu_0_project" sys_domain="global" view="Default view">124da6aeeb9745bdba22cd4805b1a658</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-26 18:34:36</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-26 18:34:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8470e874b1fb45228dae05f82e32865b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1850489_premiu_0_project" name="x_1850489_premiu_0_project" sys_domain="global" view="Default view">f07b9a5be729422db660d874c935f763</sys_ui_form>
+            <sys_ui_section caption="Project Notes" display_value="Project Notes" name="x_1850489_premiu_0_project" sys_domain="global" view="Default view">3ae886a4d29f4c4487968ba99859e67d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-26 18:34:36</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-26 18:34:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0812c8797f464f209383bf4fb63eb558</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1850489_premiu_0_project" name="x_1850489_premiu_0_project" sys_domain="global" view="Default view">f07b9a5be729422db660d874c935f763</sys_ui_form>
+            <sys_ui_section caption="Assignment" display_value="Assignment" name="x_1850489_premiu_0_project" sys_domain="global" view="Default view">1eb087a8fc064422b3a4624d426415e5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-26 18:34:36</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-26 18:34:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9bf2eaa1685f4cf8b65b8f7931b846eb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1850489_premiu_0_project" name="x_1850489_premiu_0_project" sys_domain="global" view="Default view">f07b9a5be729422db660d874c935f763</sys_ui_form>
+            <sys_ui_section caption="Activity" display_value="Activity" name="x_1850489_premiu_0_project" sys_domain="global" view="Default view">bf7860d85f6b491c9736e5318e60fd3a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-26 18:34:36</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1850489_premiu_0_project</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-26 18:18:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f07b9a5be729422db660d874c935f763</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1850489_premiu_0_project</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Premium Residency SPM Demo" source="x_1850489_premiu_0">3dd2eaab73c013106a56f85c4ab8b7a0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Premium Residency SPM Demo">3dd2eaab73c013106a56f85c4ab8b7a0</sys_scope>
+            <sys_update_name>sys_ui_form_sections_f07b9a5be729422db660d874c935f763</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-26 18:18:13</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
 </record_update>

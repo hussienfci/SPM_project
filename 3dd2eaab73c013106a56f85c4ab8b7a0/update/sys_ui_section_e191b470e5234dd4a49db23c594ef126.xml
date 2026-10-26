@@ -1,98 +1,155 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-  <sys_ui_section caption="Task Details" section_id="e191b470e5234dd4a49db23c594ef126" sys_domain="global" table="x_1850489_premiu_0_prj_task" view="">
-    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
-      <element>.begin_split</element>
-      <position>0</position>
-      <sys_id>75d6cafd797c4bea9be2fb5654f8bd5b</sys_id>
-      <sys_ui_formatter/>
-      <sys_ui_section caption="Task Details" display_value="Task Details" name="x_1850489_premiu_0_prj_task" sys_domain="global" view="Default view">e191b470e5234dd4a49db23c594ef126</sys_ui_section>
-      <sys_user/>
-      <type>.begin_split</type>
-    </sys_ui_element>
-    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
-      <element>project</element>
-      <position>1</position>
-      <sys_id>e6a58461de4047469ed452d357c4d561</sys_id>
-      <sys_ui_formatter/>
-      <sys_ui_section caption="Task Details" display_value="Task Details" name="x_1850489_premiu_0_prj_task" sys_domain="global" view="Default view">e191b470e5234dd4a49db23c594ef126</sys_ui_section>
-      <sys_user/>
-      <type/>
-    </sys_ui_element>
-    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
-      <element>task_type</element>
-      <position>2</position>
-      <sys_id>2cb3efa132b345beb8a0ff12c632353c</sys_id>
-      <sys_ui_formatter/>
-      <sys_ui_section caption="Task Details" display_value="Task Details" name="x_1850489_premiu_0_prj_task" sys_domain="global" view="Default view">e191b470e5234dd4a49db23c594ef126</sys_ui_section>
-      <sys_user/>
-      <type/>
-    </sys_ui_element>
-    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
-      <element>task_phase</element>
-      <position>3</position>
-      <sys_id>7d1b8d5082434da1bea5827e6aef1b90</sys_id>
-      <sys_ui_formatter/>
-      <sys_ui_section caption="Task Details" display_value="Task Details" name="x_1850489_premiu_0_prj_task" sys_domain="global" view="Default view">e191b470e5234dd4a49db23c594ef126</sys_ui_section>
-      <sys_user/>
-      <type/>
-    </sys_ui_element>
-    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
-      <element>.split</element>
-      <position>4</position>
-      <sys_id>e1f600eda49b4d2297a2a175f750aaef</sys_id>
-      <sys_ui_formatter/>
-      <sys_ui_section caption="Task Details" display_value="Task Details" name="x_1850489_premiu_0_prj_task" sys_domain="global" view="Default view">e191b470e5234dd4a49db23c594ef126</sys_ui_section>
-      <sys_user/>
-      <type>.split</type>
-    </sys_ui_element>
-    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
-      <element>planned_hours</element>
-      <position>5</position>
-      <sys_id>94ae858f774c4d2a8585d5cd70e0f06f</sys_id>
-      <sys_ui_formatter/>
-      <sys_ui_section caption="Task Details" display_value="Task Details" name="x_1850489_premiu_0_prj_task" sys_domain="global" view="Default view">e191b470e5234dd4a49db23c594ef126</sys_ui_section>
-      <sys_user/>
-      <type/>
-    </sys_ui_element>
-    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
-      <element>actual_hours</element>
-      <position>6</position>
-      <sys_id>1c7d47a39f5b47f5baf08be711174f00</sys_id>
-      <sys_ui_formatter/>
-      <sys_ui_section caption="Task Details" display_value="Task Details" name="x_1850489_premiu_0_prj_task" sys_domain="global" view="Default view">e191b470e5234dd4a49db23c594ef126</sys_ui_section>
-      <sys_user/>
-      <type/>
-    </sys_ui_element>
-    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
-      <element>percent_complete</element>
-      <position>7</position>
-      <sys_id>c5d35bb8b11f4955837d4fab3c41a215</sys_id>
-      <sys_ui_formatter/>
-      <sys_ui_section caption="Task Details" display_value="Task Details" name="x_1850489_premiu_0_prj_task" sys_domain="global" view="Default view">e191b470e5234dd4a49db23c594ef126</sys_ui_section>
-      <sys_user/>
-      <type/>
-    </sys_ui_element>
-    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
-      <element>.end_split</element>
-      <position>8</position>
-      <sys_id>faef484b3c5d4bb29f9ddc2b36064b25</sys_id>
-      <sys_ui_formatter/>
-      <sys_ui_section caption="Task Details" display_value="Task Details" name="x_1850489_premiu_0_prj_task" sys_domain="global" view="Default view">e191b470e5234dd4a49db23c594ef126</sys_ui_section>
-      <sys_user/>
-      <type>.end_split</type>
-    </sys_ui_element>
-    <sys_ui_section action="INSERT_OR_UPDATE" apply_defaults="true">
-      <caption>Task Details</caption>
-      <header>false</header>
-      <name>x_1850489_premiu_0_prj_task</name>
-      <roles/>
-      <sys_domain>global</sys_domain>
-      <sys_id>e191b470e5234dd4a49db23c594ef126</sys_id>
-      <sys_scope display_value="x_1850489_premiu_0">3dd2eaab73c013106a56f85c4ab8b7a0</sys_scope>
-      <sys_user/>
-      <title>false</title>
-      <view_name/>
-      <view display_value="Default view" name="NULL">Default view</view>
+    <sys_ui_section caption="Task Details" section_id="e191b470e5234dd4a49db23c594ef126" sys_domain="global" table="x_1850489_premiu_0_prj_task" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-26 18:34:37</sys_created_on>
+            <sys_id>169ca8ce422046d7bad2b4c1982bcc9a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Task Details" display_value="Task Details" name="x_1850489_premiu_0_prj_task" sys_domain="global" view="Default view">e191b470e5234dd4a49db23c594ef126</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-26 18:34:37</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>project</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-26 18:34:37</sys_created_on>
+            <sys_id>22de90f11d94449dad869bfb74fef886</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Task Details" display_value="Task Details" name="x_1850489_premiu_0_prj_task" sys_domain="global" view="Default view">e191b470e5234dd4a49db23c594ef126</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-26 18:34:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>task_type</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-26 18:34:37</sys_created_on>
+            <sys_id>ec61ba5550ac461b9b759e4921943630</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Task Details" display_value="Task Details" name="x_1850489_premiu_0_prj_task" sys_domain="global" view="Default view">e191b470e5234dd4a49db23c594ef126</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-26 18:34:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>task_phase</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-26 18:34:37</sys_created_on>
+            <sys_id>be672daf1b31496f90a2c173c606c84e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Task Details" display_value="Task Details" name="x_1850489_premiu_0_prj_task" sys_domain="global" view="Default view">e191b470e5234dd4a49db23c594ef126</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-26 18:34:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-26 18:34:37</sys_created_on>
+            <sys_id>caf84ccbb480421ab07a11f4520a34ed</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Task Details" display_value="Task Details" name="x_1850489_premiu_0_prj_task" sys_domain="global" view="Default view">e191b470e5234dd4a49db23c594ef126</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-26 18:34:37</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>planned_hours</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-26 18:34:37</sys_created_on>
+            <sys_id>efa8d02ff4d74330bcd6e28da150d01c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Task Details" display_value="Task Details" name="x_1850489_premiu_0_prj_task" sys_domain="global" view="Default view">e191b470e5234dd4a49db23c594ef126</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-26 18:34:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>actual_hours</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-26 18:34:37</sys_created_on>
+            <sys_id>1a36b199bb2e4918a44af3e80896e454</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Task Details" display_value="Task Details" name="x_1850489_premiu_0_prj_task" sys_domain="global" view="Default view">e191b470e5234dd4a49db23c594ef126</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-26 18:34:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>percent_complete</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-26 18:34:37</sys_created_on>
+            <sys_id>81a9c3b126fa42a4b75361d2f0c0441c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Task Details" display_value="Task Details" name="x_1850489_premiu_0_prj_task" sys_domain="global" view="Default view">e191b470e5234dd4a49db23c594ef126</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-26 18:34:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-26 18:34:37</sys_created_on>
+            <sys_id>f7e348b32c044bf9ae5a72c9713d53e7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Task Details" display_value="Task Details" name="x_1850489_premiu_0_prj_task" sys_domain="global" view="Default view">e191b470e5234dd4a49db23c594ef126</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-26 18:34:37</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Task Details</caption>
+            <header>false</header>
+            <name>x_1850489_premiu_0_prj_task</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-26 18:18:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e191b470e5234dd4a49db23c594ef126</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1850489_premiu_0_prj_task</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Premium Residency SPM Demo" source="x_1850489_premiu_0">3dd2eaab73c013106a56f85c4ab8b7a0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Premium Residency SPM Demo">3dd2eaab73c013106a56f85c4ab8b7a0</sys_scope>
+            <sys_update_name>sys_ui_section_e191b470e5234dd4a49db23c594ef126</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-26 18:18:14</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
     </sys_ui_section>
-  </sys_ui_section>
 </record_update>

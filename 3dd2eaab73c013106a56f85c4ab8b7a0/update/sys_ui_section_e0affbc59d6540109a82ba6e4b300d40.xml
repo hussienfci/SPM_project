@@ -1,62 +1,99 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-  <sys_ui_section caption="Assignment" section_id="e0affbc59d6540109a82ba6e4b300d40" sys_domain="global" table="x_1850489_premiu_0_demand" view="">
-    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
-      <element>.begin_split</element>
-      <position>0</position>
-      <sys_id>712b2d31c7b84687b1dc8d8fddac5e74</sys_id>
-      <sys_ui_formatter/>
-      <sys_ui_section caption="Assignment" display_value="Assignment" name="x_1850489_premiu_0_demand" sys_domain="global" view="Default view">e0affbc59d6540109a82ba6e4b300d40</sys_ui_section>
-      <sys_user/>
-      <type>.begin_split</type>
-    </sys_ui_element>
-    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
-      <element>assigned_to</element>
-      <position>1</position>
-      <sys_id>c20b2ae31d93473197cba0ebbbf9eca3</sys_id>
-      <sys_ui_formatter/>
-      <sys_ui_section caption="Assignment" display_value="Assignment" name="x_1850489_premiu_0_demand" sys_domain="global" view="Default view">e0affbc59d6540109a82ba6e4b300d40</sys_ui_section>
-      <sys_user/>
-      <type/>
-    </sys_ui_element>
-    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
-      <element>.split</element>
-      <position>2</position>
-      <sys_id>be0d9283cc154b189159d4679521c594</sys_id>
-      <sys_ui_formatter/>
-      <sys_ui_section caption="Assignment" display_value="Assignment" name="x_1850489_premiu_0_demand" sys_domain="global" view="Default view">e0affbc59d6540109a82ba6e4b300d40</sys_ui_section>
-      <sys_user/>
-      <type>.split</type>
-    </sys_ui_element>
-    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
-      <element>assignment_group</element>
-      <position>3</position>
-      <sys_id>9f3c29bf20df4c3096e6ca490115f24c</sys_id>
-      <sys_ui_formatter/>
-      <sys_ui_section caption="Assignment" display_value="Assignment" name="x_1850489_premiu_0_demand" sys_domain="global" view="Default view">e0affbc59d6540109a82ba6e4b300d40</sys_ui_section>
-      <sys_user/>
-      <type/>
-    </sys_ui_element>
-    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
-      <element>.end_split</element>
-      <position>4</position>
-      <sys_id>27c68184314948b190869d10c6096e11</sys_id>
-      <sys_ui_formatter/>
-      <sys_ui_section caption="Assignment" display_value="Assignment" name="x_1850489_premiu_0_demand" sys_domain="global" view="Default view">e0affbc59d6540109a82ba6e4b300d40</sys_ui_section>
-      <sys_user/>
-      <type>.end_split</type>
-    </sys_ui_element>
-    <sys_ui_section action="INSERT_OR_UPDATE" apply_defaults="true">
-      <caption>Assignment</caption>
-      <header>false</header>
-      <name>x_1850489_premiu_0_demand</name>
-      <roles/>
-      <sys_domain>global</sys_domain>
-      <sys_id>e0affbc59d6540109a82ba6e4b300d40</sys_id>
-      <sys_scope display_value="x_1850489_premiu_0">3dd2eaab73c013106a56f85c4ab8b7a0</sys_scope>
-      <sys_user/>
-      <title>false</title>
-      <view_name/>
-      <view display_value="Default view" name="NULL">Default view</view>
+    <sys_ui_section caption="Assignment" section_id="e0affbc59d6540109a82ba6e4b300d40" sys_domain="global" table="x_1850489_premiu_0_demand" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-26 18:34:36</sys_created_on>
+            <sys_id>1650d64e6b27494da7e7a8b94b2eff4e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Assignment" display_value="Assignment" name="x_1850489_premiu_0_demand" sys_domain="global" view="Default view">e0affbc59d6540109a82ba6e4b300d40</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-26 18:34:36</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-26 18:34:36</sys_created_on>
+            <sys_id>4d2f6376346f4651ad9306d56e0bd0e5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Assignment" display_value="Assignment" name="x_1850489_premiu_0_demand" sys_domain="global" view="Default view">e0affbc59d6540109a82ba6e4b300d40</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-26 18:34:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-26 18:34:36</sys_created_on>
+            <sys_id>0a134bc088c540108a1bbd93c6fb184f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Assignment" display_value="Assignment" name="x_1850489_premiu_0_demand" sys_domain="global" view="Default view">e0affbc59d6540109a82ba6e4b300d40</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-26 18:34:36</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assignment_group</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-26 18:34:36</sys_created_on>
+            <sys_id>db02130025ac43e48e1a3372f25a9695</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Assignment" display_value="Assignment" name="x_1850489_premiu_0_demand" sys_domain="global" view="Default view">e0affbc59d6540109a82ba6e4b300d40</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-26 18:34:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-26 18:34:36</sys_created_on>
+            <sys_id>308df1bb91d64e5ab6f1a91beef9fba3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Assignment" display_value="Assignment" name="x_1850489_premiu_0_demand" sys_domain="global" view="Default view">e0affbc59d6540109a82ba6e4b300d40</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-26 18:34:36</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Assignment</caption>
+            <header>false</header>
+            <name>x_1850489_premiu_0_demand</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-26 18:18:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e0affbc59d6540109a82ba6e4b300d40</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1850489_premiu_0_demand</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Premium Residency SPM Demo" source="x_1850489_premiu_0">3dd2eaab73c013106a56f85c4ab8b7a0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Premium Residency SPM Demo">3dd2eaab73c013106a56f85c4ab8b7a0</sys_scope>
+            <sys_update_name>sys_ui_section_e0affbc59d6540109a82ba6e4b300d40</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-26 18:18:14</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
     </sys_ui_section>
-  </sys_ui_section>
 </record_update>

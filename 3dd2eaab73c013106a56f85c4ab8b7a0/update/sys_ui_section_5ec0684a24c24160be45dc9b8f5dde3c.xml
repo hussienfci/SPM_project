@@ -1,62 +1,99 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-  <sys_ui_section caption="Assessment Scores" section_id="5ec0684a24c24160be45dc9b8f5dde3c" sys_domain="global" table="x_1850489_premiu_0_demand" view="">
-    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
-      <element>.begin_split</element>
-      <position>0</position>
-      <sys_id>e706cf7f73a64ef695f4daaa72b633b9</sys_id>
-      <sys_ui_formatter/>
-      <sys_ui_section caption="Assessment Scores" display_value="Assessment Scores" name="x_1850489_premiu_0_demand" sys_domain="global" view="Default view">5ec0684a24c24160be45dc9b8f5dde3c</sys_ui_section>
-      <sys_user/>
-      <type>.begin_split</type>
-    </sys_ui_element>
-    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
-      <element>business_value_score</element>
-      <position>1</position>
-      <sys_id>92d2cc5a9bf7475d9bf43bf4e9a39886</sys_id>
-      <sys_ui_formatter/>
-      <sys_ui_section caption="Assessment Scores" display_value="Assessment Scores" name="x_1850489_premiu_0_demand" sys_domain="global" view="Default view">5ec0684a24c24160be45dc9b8f5dde3c</sys_ui_section>
-      <sys_user/>
-      <type/>
-    </sys_ui_element>
-    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
-      <element>.split</element>
-      <position>2</position>
-      <sys_id>488841c5c77e4eba83ba0f02969bd151</sys_id>
-      <sys_ui_formatter/>
-      <sys_ui_section caption="Assessment Scores" display_value="Assessment Scores" name="x_1850489_premiu_0_demand" sys_domain="global" view="Default view">5ec0684a24c24160be45dc9b8f5dde3c</sys_ui_section>
-      <sys_user/>
-      <type>.split</type>
-    </sys_ui_element>
-    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
-      <element>risk_score</element>
-      <position>3</position>
-      <sys_id>02153e2bcc3f4b71a60dd67f22d6171e</sys_id>
-      <sys_ui_formatter/>
-      <sys_ui_section caption="Assessment Scores" display_value="Assessment Scores" name="x_1850489_premiu_0_demand" sys_domain="global" view="Default view">5ec0684a24c24160be45dc9b8f5dde3c</sys_ui_section>
-      <sys_user/>
-      <type/>
-    </sys_ui_element>
-    <sys_ui_element action="INSERT_OR_UPDATE" apply_defaults="true">
-      <element>.end_split</element>
-      <position>4</position>
-      <sys_id>06293805cbf34982969de330243f6885</sys_id>
-      <sys_ui_formatter/>
-      <sys_ui_section caption="Assessment Scores" display_value="Assessment Scores" name="x_1850489_premiu_0_demand" sys_domain="global" view="Default view">5ec0684a24c24160be45dc9b8f5dde3c</sys_ui_section>
-      <sys_user/>
-      <type>.end_split</type>
-    </sys_ui_element>
-    <sys_ui_section action="INSERT_OR_UPDATE" apply_defaults="true">
-      <caption>Assessment Scores</caption>
-      <header>false</header>
-      <name>x_1850489_premiu_0_demand</name>
-      <roles/>
-      <sys_domain>global</sys_domain>
-      <sys_id>5ec0684a24c24160be45dc9b8f5dde3c</sys_id>
-      <sys_scope display_value="x_1850489_premiu_0">3dd2eaab73c013106a56f85c4ab8b7a0</sys_scope>
-      <sys_user/>
-      <title>false</title>
-      <view_name/>
-      <view display_value="Default view" name="NULL">Default view</view>
+    <sys_ui_section caption="Assessment Scores" section_id="5ec0684a24c24160be45dc9b8f5dde3c" sys_domain="global" table="x_1850489_premiu_0_demand" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-26 18:34:38</sys_created_on>
+            <sys_id>5b364efedb5a411d9a5dc19ae2f604a7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Assessment Scores" display_value="Assessment Scores" name="x_1850489_premiu_0_demand" sys_domain="global" view="Default view">5ec0684a24c24160be45dc9b8f5dde3c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-26 18:34:38</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>business_value_score</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-26 18:34:38</sys_created_on>
+            <sys_id>44e9b1243227487b887ea0527306ea47</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Assessment Scores" display_value="Assessment Scores" name="x_1850489_premiu_0_demand" sys_domain="global" view="Default view">5ec0684a24c24160be45dc9b8f5dde3c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-26 18:34:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-26 18:34:38</sys_created_on>
+            <sys_id>83bced23e2834f3ab9604e75a811aec9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Assessment Scores" display_value="Assessment Scores" name="x_1850489_premiu_0_demand" sys_domain="global" view="Default view">5ec0684a24c24160be45dc9b8f5dde3c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-26 18:34:38</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>risk_score</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-26 18:34:38</sys_created_on>
+            <sys_id>1b02e60dbb724f6f94f8e80aa1eec0cb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Assessment Scores" display_value="Assessment Scores" name="x_1850489_premiu_0_demand" sys_domain="global" view="Default view">5ec0684a24c24160be45dc9b8f5dde3c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-26 18:34:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-26 18:34:38</sys_created_on>
+            <sys_id>b5b2daf28d6c48e093368c2067086b1a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Assessment Scores" display_value="Assessment Scores" name="x_1850489_premiu_0_demand" sys_domain="global" view="Default view">5ec0684a24c24160be45dc9b8f5dde3c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-26 18:34:38</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Assessment Scores</caption>
+            <header>false</header>
+            <name>x_1850489_premiu_0_demand</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-26 18:18:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5ec0684a24c24160be45dc9b8f5dde3c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1850489_premiu_0_demand</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Premium Residency SPM Demo" source="x_1850489_premiu_0">3dd2eaab73c013106a56f85c4ab8b7a0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Premium Residency SPM Demo">3dd2eaab73c013106a56f85c4ab8b7a0</sys_scope>
+            <sys_update_name>sys_ui_section_5ec0684a24c24160be45dc9b8f5dde3c</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-26 18:18:14</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
     </sys_ui_section>
-  </sys_ui_section>
 </record_update>

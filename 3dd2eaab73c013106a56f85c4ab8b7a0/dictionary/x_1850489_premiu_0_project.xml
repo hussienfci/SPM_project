@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="6c9f5dffef3f444cbf4f4ce10d93440e" extends="task" label="Residency Project" name="x_1850489_premiu_0_project" type="collection">
+        <element default="0" label="Percent Complete" name="percent_complete" type="integer"/>
+        <element label="Actual End Date" name="actual_end" type="glide_date"/>
+        <element default="initiation" label="Project Phase" name="project_phase" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Initiation" sequence="1" value="initiation"/>
+                <element inactive_on_update="false" label="Monitoring" sequence="4" value="monitoring"/>
+                <element inactive_on_update="false" label="Execution" sequence="3" value="execution"/>
+                <element inactive_on_update="false" label="Closing" sequence="5" value="closing"/>
+                <element inactive_on_update="false" label="Planning" sequence="2" value="planning"/>
+            </choice>
+        </element>
+        <element label="Budget (USD)" name="budget" type="decimal"/>
+        <element label="Planned Start Date" name="planned_start" type="glide_date"/>
+        <element label="Project Notes" max_length="4000" name="project_notes" type="multi_two_lines"/>
+        <element label="Actual Start Date" name="actual_start" type="glide_date"/>
+        <element label="Planned End Date" name="planned_end" type="glide_date"/>
+        <element label="Project Manager" name="project_manager" reference="sys_user" type="reference"/>
+        <element label="Source Demand" name="source_demand" reference="x_1850489_premiu_0_demand" type="reference"/>
+    </element>
+</database>
