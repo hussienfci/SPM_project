@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_module">
+  <sys_app_module action="INSERT_OR_UPDATE" apply_defaults="true">
+    <sys_id>1f1531b0bafd42ba851893b94c62c858</sys_id>
+    <sys_scope display_value="x_1850489_premiu_0">3dd2eaab73c013106a56f85c4ab8b7a0</sys_scope>
+    <sys_update_name>sys_app_module_1f1531b0bafd42ba851893b94c62c858</sys_update_name>
+    <active>true</active>
+    <application>ac1d968dfd3d4353884b75865fc043a1</application>
+    <link_type>SEPARATOR</link_type>
+    <order>500</order>
+    <title>Projects</title>
+  </sys_app_module>
+</record_update>

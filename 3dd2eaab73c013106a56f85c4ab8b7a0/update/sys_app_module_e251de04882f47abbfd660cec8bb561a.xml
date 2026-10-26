@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_module">
+  <sys_app_module action="INSERT_OR_UPDATE" apply_defaults="true">
+    <sys_id>e251de04882f47abbfd660cec8bb561a</sys_id>
+    <sys_scope display_value="x_1850489_premiu_0">3dd2eaab73c013106a56f85c4ab8b7a0</sys_scope>
+    <sys_update_name>sys_app_module_e251de04882f47abbfd660cec8bb561a</sys_update_name>
+    <active>true</active>
+    <application>ac1d968dfd3d4353884b75865fc043a1</application>
+    <link_type>DIRECT</link_type>
+    <order>100</order>
+    <query>x_1850489_premiu_0_dashboard.do</query>
+    <title>Portfolio Dashboard</title>
+  </sys_app_module>
+</record_update>
