@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_1850489_premiu_0_project">
+  <x_1850489_premiu_0_project action="INSERT_OR_UPDATE" apply_defaults="true">
+    <sys_id>a7dbf89b189c460e9c136b7f9f9c0c1d</sys_id>
+    <sys_scope display_value="x_1850489_premiu_0">3dd2eaab73c013106a56f85c4ab8b7a0</sys_scope>
+    <sys_update_name>x_1850489_premiu_0_project_a7dbf89b189c460e9c136b7f9f9c0c1d</sys_update_name>
+    <assigned_to>6816f79cc0a8016401c5a33be04be441</assigned_to>
+    <budget>750000</budget>
+    <percent_complete>45</percent_complete>
+    <project_phase>execution</project_phase>
+    <short_description>Premium Residency Fast-Track Implementation</short_description>
+    <source_demand>0ce9f46ea17646c8a3c034b6cff9c1b5</source_demand>
+    <state>2</state>
+  </x_1850489_premiu_0_project>
+</record_update>

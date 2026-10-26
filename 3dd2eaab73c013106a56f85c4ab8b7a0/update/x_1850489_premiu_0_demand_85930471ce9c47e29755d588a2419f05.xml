@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_1850489_premiu_0_demand">
+  <x_1850489_premiu_0_demand action="INSERT_OR_UPDATE" apply_defaults="true">
+    <sys_id>85930471ce9c47e29755d588a2419f05</sys_id>
+    <sys_scope display_value="x_1850489_premiu_0">3dd2eaab73c013106a56f85c4ab8b7a0</sys_scope>
+    <sys_update_name>x_1850489_premiu_0_demand_85930471ce9c47e29755d588a2419f05</sys_update_name>
+    <assigned_to>6816f79cc0a8016401c5a33be04be441</assigned_to>
+    <business_unit>finance</business_unit>
+    <business_value_score>65</business_value_score>
+    <demand_state>draft</demand_state>
+    <demand_type>compliance</demand_type>
+    <estimated_cost>150000</estimated_cost>
+    <risk_score>20</risk_score>
+    <short_description>Compliance Reporting Dashboard</short_description>
+    <state>1</state>
+    <strategic_alignment>medium</strategic_alignment>
+  </x_1850489_premiu_0_demand>
+</record_update>

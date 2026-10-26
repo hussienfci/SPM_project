@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_1850489_premiu_0_prj_task">
+  <x_1850489_premiu_0_prj_task action="INSERT_OR_UPDATE" apply_defaults="true">
+    <sys_id>153d10f8895d4b969556f707d12b3468</sys_id>
+    <sys_scope display_value="x_1850489_premiu_0">3dd2eaab73c013106a56f85c4ab8b7a0</sys_scope>
+    <sys_update_name>x_1850489_premiu_0_prj_task_153d10f8895d4b969556f707d12b3468</sys_update_name>
+    <actual_hours>0</actual_hours>
+    <percent_complete>0</percent_complete>
+    <planned_hours>16</planned_hours>
+    <project>a7dbf89b189c460e9c136b7f9f9c0c1d</project>
+    <short_description>Final Approval Gate</short_description>
+    <state>1</state>
+    <task_phase>not_started</task_phase>
+    <task_type>approval_gate</task_type>
+  </x_1850489_premiu_0_prj_task>
+</record_update>
